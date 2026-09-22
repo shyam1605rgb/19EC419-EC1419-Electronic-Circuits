@@ -10,11 +10,15 @@
 <img width="632" height="687" alt="image" src="https://github.com/user-attachments/assets/d7f34879-1ed5-46ef-ae94-63f0fe49acc2" />
 <img width="670" height="212" alt="image" src="https://github.com/user-attachments/assets/bc13bd31-7d40-4d98-93b6-75e3acce59f1" />
 
-
-## circuit diagram
+## calculation
+<img width="790" height="590" alt="image" src="https://github.com/user-attachments/assets/06bc75ca-ae29-4f17-be71-53ba97a88405" />
 
 ## graph
-
-## calculation
+<img width="797" height="596" alt="image" src="https://github.com/user-attachments/assets/82006a22-b006-40ad-82b4-100f47975496" />
 
 ## result
+<img width="778" height="180" alt="image" src="https://github.com/user-attachments/assets/3e1f898d-4b08-4390-b078-04d0cb5b80e5" />
+
+## mark split up
+<img width="792" height="593" alt="image" src="https://github.com/user-attachments/assets/7af0d686-b754-4b28-9f5a-6108c94184f4" />
+
