@@ -7,6 +7,10 @@
 <img width="716" height="620" alt="image" src="https://github.com/user-attachments/assets/5516ee22-0e46-4a33-8922-a74538cc7b72" />
 <img width="540" height="138" alt="image" src="https://github.com/user-attachments/assets/37828781-c043-496d-9cbf-caafe7d24c44" />
 
+## circuit Diagram
+<img width="867" height="1509" alt="image" src="https://github.com/user-attachments/assets/46e710e3-12cf-4494-aa3f-6ed68df0bee0" />
+
+
 
 ## tabulation
 <img width="1011" height="1600" alt="WhatsApp Image 2026-09-20 at 12 50 25 PM" src="https://github.com/user-attachments/assets/fdd0fd66-f936-49c9-b59d-0a995dcc48ca" />
