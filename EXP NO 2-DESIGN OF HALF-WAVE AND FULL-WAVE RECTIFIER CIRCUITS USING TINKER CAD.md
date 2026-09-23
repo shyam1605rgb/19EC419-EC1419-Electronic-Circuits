@@ -8,8 +8,9 @@
 
 
 ## tinker cad circuit diagram
-<img width="575" height="932" alt="image" src="https://github.com/user-attachments/assets/1a56fc8f-bda5-4af1-a045-6f64ca0d1407" />
-<img width="560" height="922" alt="image" src="https://github.com/user-attachments/assets/654d3482-7467-408b-adf2-36e4a4469267" />
+<img width="1032" height="1600" alt="image" src="https://github.com/user-attachments/assets/3b05da12-4d6c-4f58-8f87-d34d9ee1cc05" />
+
+<img width="1035" height="1600" alt="image" src="https://github.com/user-attachments/assets/dcabe579-173e-4184-853c-8e45892e534b" />
 
 ## result
 <img width="562" height="757" alt="image" src="https://github.com/user-attachments/assets/c8c2f68b-38bc-44bb-a775-e802df7a76bf" />
