@@ -5,6 +5,9 @@
 <img width="661" height="592" alt="image" src="https://github.com/user-attachments/assets/e09e8377-c841-434f-a6e6-27394cb075ce" />
 <img width="643" height="150" alt="image" src="https://github.com/user-attachments/assets/20f3fa20-64ed-4f77-bd24-223155f63f1d" />
 
+## circuit Diagram
+<img width="1007" height="1600" alt="image" src="https://github.com/user-attachments/assets/e280cd83-49e3-4449-82a7-c91859506f7e" />
+
 
 ## tabulation
 <img width="505" height="843" alt="image" src="https://github.com/user-attachments/assets/c563a5a8-4e08-4bdd-821c-e67dc3a46060" />
