@@ -6,6 +6,8 @@
 <img width="725" height="297" alt="image" src="https://github.com/user-attachments/assets/43fa7cc6-9fe7-4d04-ae7c-2b330fde5048" />
 <img width="657" height="237" alt="image" src="https://github.com/user-attachments/assets/a0ed600c-09a4-4e95-abce-8df086ebec6b" />
 
+## Circuit Diagram
+<img width="1044" height="1411" alt="image" src="https://github.com/user-attachments/assets/1f275b28-6286-4cea-b7d6-6027a2db3e2d" />
 
 ## Tabulation
 <img width="985" height="1599" alt="WhatsApp Image 2026-09-20 at 12 44 56 PM" src="https://github.com/user-attachments/assets/900c32d0-0aa2-4276-9d09-b085df2cd432" />
