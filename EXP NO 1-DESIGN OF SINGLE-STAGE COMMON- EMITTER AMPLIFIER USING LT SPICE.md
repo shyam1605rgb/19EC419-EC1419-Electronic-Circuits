@@ -10,6 +10,9 @@
 <img width="632" height="687" alt="image" src="https://github.com/user-attachments/assets/d7f34879-1ed5-46ef-ae94-63f0fe49acc2" />
 <img width="670" height="212" alt="image" src="https://github.com/user-attachments/assets/bc13bd31-7d40-4d98-93b6-75e3acce59f1" />
 
+## LTspice circuit diagram
+<img width="1302" height="1044" alt="image" src="https://github.com/user-attachments/assets/174b7596-2c19-48e6-ab30-86547a926922" />
+
 ## calculation
 <img width="790" height="590" alt="image" src="https://github.com/user-attachments/assets/06bc75ca-ae29-4f17-be71-53ba97a88405" />
 
