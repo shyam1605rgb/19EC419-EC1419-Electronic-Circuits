@@ -11,6 +11,10 @@
 ## PCB design
 <img width="1562" height="1600" alt="image" src="https://github.com/user-attachments/assets/559232d6-ca9b-4e3b-938e-d0de3a0dac66" />
 
+## 3D view
+<img width="1352" height="1600" alt="image" src="https://github.com/user-attachments/assets/44b2a9e8-299c-4c2e-a02d-73f9aad59506" />
+
+
 
 ## output waveform
 <img width="475" height="865" alt="image" src="https://github.com/user-attachments/assets/0f1a0d74-422b-4fd5-bd39-ed2fc4870fc2" />
